@@ -1,4 +1,4 @@
-drahimov.me
+http://drahimov.me/
 
 - 👋 Hi, I’m @Dilmurod3
 - 👀 I’m interested in Front end development and UX/UI Design
