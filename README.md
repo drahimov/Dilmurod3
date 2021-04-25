@@ -1,6 +1,6 @@
 http://drahimov.me/
 
-- 👋 Hi, I’m @Dilmurod3
+- 👋 Hi, I’m Dilmurod
 - 👀 I’m interested in Front end development and UX/UI Design
 - 🌱 I’m currently learning Javascript and React Native
 - 💞️ I’m looking to collaborate on ...
